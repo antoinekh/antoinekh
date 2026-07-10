@@ -80,8 +80,8 @@ I enjoy engineering and designing architectures and solutions where networking m
 
 ---
 
-### 📊 GitHub stats
+<!-- ### 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antoinekh&show_icons=true&hide_border=true&hide_rank=true" alt="Antoine's GitHub stats" height="160"/>
-</p>
+</p> -->

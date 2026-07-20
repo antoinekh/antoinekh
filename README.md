@@ -75,6 +75,7 @@ I enjoy engineering and designing architectures and solutions where networking m
 ### 🤝 Contributions
 
 - **[containerlab](https://github.com/srl-labs/containerlab)** - container-based networking labs
+- **[GoBGP](https://github.com/osrg/gobgp)** - BGP implementation in Go
 - **[NetBox](https://github.com/netbox-community/netbox)** - network source of truth
 - **[bgp-routing-security-monitor (RAVEN)](https://github.com/antoinekh/bgp-routing-security-monitor)** - BMP + RPKI ROV + ASPA path validation in a single binary
 

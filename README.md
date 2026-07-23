@@ -65,9 +65,10 @@ I enjoy engineering and designing architectures and solutions where networking m
 | [**nokia-sr-skills**](https://github.com/antoinekh/nokia-sr-skills) | Claude Code skill plugin to inspect & operate Nokia SR OS / SR Linux: NOS detection, on-demand YANG models, CLI/NETCONF/gNMI. |
 | [**markdown-link-title**](https://github.com/antoinekh/markdown-link-title) | VS Code extension: paste a URL in Markdown and get a dynamic `[Page Title](url)`. Zero dependencies, customisable, honours VS Code proxy settings. |
 | [**markdown-priority-badges**](https://github.com/antoinekh/markdown-priority-badges) | Python-Markdown extension rendering inline priority badges: `!level` keywords anywhere and `!` / `!!` shorthand on task-list items. Works in Zensical / MkDocs / plain Markdown, no external CSS. |
-| [**network-secret-decoder**](https://github.com/antoinekh/network-secret-decoder) | Decode & encode network device secrets (Juniper `$9$` / `$8$`, Nokia SR OS custom-hash) entirely in the browser, no backend. |
-| [**juniper9-crypt**](https://github.com/antoinekh/juniper9-crypt) | Python library + CLI to encrypt / decrypt / compare Juniper `$9$` (type 9) passwords. |
-| [**juniper8-crypt**](https://github.com/antoinekh/juniper8-crypt) | Same idea for Juniper `$8$` (type 8) passwords. |
+| [**network-secret**](https://github.com/antoinekh/network-secret) | Python library + CLI to encode / decode / compare network device secrets: Juniper `$9$`, Juniper `$8$`, and Nokia SR OS custom-hash in one package. |
+| [**network-secret-website**](https://github.com/antoinekh/network-secret-website) | Decode & encode network device secrets (Juniper `$9$` / `$8$`, Nokia SR OS custom-hash) entirely in the browser, no backend. |
+| [**juniper9-crypt**](https://github.com/antoinekh/juniper9-crypt) | Python library + CLI for Juniper `$9$` (type 9) passwords. Archived - superseded by `network-secret`. |
+| [**juniper8-crypt**](https://github.com/antoinekh/juniper8-crypt) | Same idea for Juniper `$8$` (type 8) passwords. Archived - superseded by `network-secret`. |
 | [**dockerfiles**](https://github.com/antoinekh/dockerfiles) | Collection of Dockerfiles for my tooling. |
 
 ---

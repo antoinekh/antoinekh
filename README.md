@@ -66,7 +66,7 @@ I enjoy engineering and designing architectures and solutions where networking m
 | [**nokia-sr-skills**](https://github.com/antoinekh/nokia-sr-skills) | Claude Code skill plugin to inspect & operate Nokia SR OS / SR Linux: NOS detection, on-demand YANG models, CLI/NETCONF/gNMI. |
 | [**network-secret**](https://github.com/antoinekh/network-secret) |Encode, decode, and check network device secrets for Juniper/HPE JunOS, Nokia SR OS, and Cisco IOS. Python library + CLI, plus a browser version that runs entirely client-side. |
 | [**markdown-link-title**](https://github.com/antoinekh/markdown-link-title) | VS Code extension: paste a URL in Markdown and get a dynamic `[Page Title](url)`. Zero dependencies, customisable, honours VS Code proxy settings. |
-| [**markdown-priority-badges**](https://github.com/antoinekh/markdown-priority-badges) | Python-Markdown extension rendering inline priority badges: `!level` keywords anywhere and `!` / `!!` shorthand on task-list items. Works in Zensical / MkDocs / plain Markdown, no external CSS. |
+| [**markdown-badges**](https://github.com/antoinekh/markdown-badges) | Python-Markdown extension rendering inline `!name` badges. A catalogue of priority, status and branding badges ships built in; add your own, restyle any of them, and choose your own task-list shorthand. Works in Zensical / MkDocs / plain Markdown, no external CSS. |
 | [**dockerfiles**](https://github.com/antoinekh/dockerfiles) | Collection of Dockerfiles for my tooling. |
 
 ---

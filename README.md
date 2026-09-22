@@ -63,7 +63,7 @@ I enjoy engineering and designing architectures and solutions where networking m
 | Project | What it is |
 | --- | --- |
 | [**netbox-change-control**](https://github.com/antoinekh/netbox-change-control) | NetBox plugin that adds policy-driven change control on top of netbox-branching: change requests, review policies, protected main, pluggable pre-merge checks, and comments on a single changed object. |
-| [**netbox-spatial-lens**](https://github.com/antoinekh/etbox-spatial-lens) | NetBox plugin that draws the estate at every scale: a world map of sites and circuits, floors in 3D or 2D, and racks in 3D with real device images and every cable, all recoloured by power, space, cooling, role or status. |
+| [**netbox-spatial-lens**](https://github.com/antoinekh/netbox-spatial-lens) | NetBox plugin that draws the estate at every scale: a world map of sites and circuits, floors in 3D or 2D, and racks in 3D with real device images and every cable, all recoloured by power, space, cooling, role or status. |
 | [**nokia-sr-skills**](https://github.com/antoinekh/nokia-sr-skills) | Claude Code skill plugin to inspect & operate Nokia SR OS / SR Linux: NOS detection, on-demand YANG models, CLI/NETCONF/gNMI. |
 | [**network-secret**](https://github.com/antoinekh/network-secret) |Encode, decode, and check network device secrets for Juniper/HPE JunOS, Nokia SR OS, and Cisco IOS. Python library + CLI, plus a browser version that runs entirely client-side. |
 | [**markdown-link-title**](https://github.com/antoinekh/markdown-link-title) | VS Code extension: paste a URL in Markdown and get a dynamic `[Page Title](url)`. Zero dependencies, customisable, honours VS Code proxy settings. |

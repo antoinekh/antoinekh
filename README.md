@@ -22,6 +22,8 @@
 
 I enjoy engineering and designing architectures and solutions where networking meets DevOps. I lean on and contribute to open-source tools, and build the automation and tooling that ties them together, with a soft spot for large and challenging environments. I love to optimise and solve tricky issues just for the pleasure of it, and when I run out of ideas I go running, mostly for fun, sometimes to chase down the idea I was missing.
 
+I write some notes [here](https://blog.antoinekh.dev/) that I would have liked to find. These are my personal notes, only nicer than usual.
+
 ---
 
 ### 🛠️ Tech & tools

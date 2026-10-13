@@ -53,6 +53,7 @@ I write some notes [here](https://blog.antoinekh.dev/) that I would have liked t
   <img src="https://img.shields.io/badge/Containerlab-0F9D58?style=flat&logo=linuxcontainers&logoColor=white" alt="Containerlab"/>
   <img src="https://img.shields.io/badge/NetBox-00D9FF?style=flat&logo=netbox&logoColor=black" alt="NetBox"/>
   <img src="https://img.shields.io/badge/NETCONF%2FYANG-005571?style=flat" alt="NETCONF/YANG"/>
+  <img src="https://img.shields.io/badge/FRR-F48020?style=flat" alt="FRR"/>
   <img src="https://img.shields.io/badge/Juniper-84B135?style=flat&logo=junipernetworks&logoColor=white" alt="Juniper"/>
   <img src="https://img.shields.io/badge/Nokia-124191?style=flat&logo=nokia&logoColor=white" alt="Nokia"/>
   <img src="https://img.shields.io/badge/Palo%20Alto-FA582D?style=flat&logo=paloaltonetworks&logoColor=white" alt="Palo Alto"/>
@@ -69,17 +70,14 @@ I write some notes [here](https://blog.antoinekh.dev/) that I would have liked t
 | [**nokia-sr-skills**](https://github.com/antoinekh/nokia-sr-skills) | Claude Code skill plugin to inspect & operate Nokia SR OS / SR Linux: NOS detection, on-demand YANG models, CLI/NETCONF/gNMI. |
 | [**network-secret**](https://github.com/antoinekh/network-secret) |Encode, decode, and check network device secrets for Juniper/HPE JunOS, Nokia SR OS, and Cisco IOS. Python library + CLI, plus a browser version that runs entirely client-side. |
 | [**markdown-link-title**](https://github.com/antoinekh/markdown-link-title) | VS Code extension: paste a URL in Markdown and get a dynamic `[Page Title](url)`. Zero dependencies, customisable, honours VS Code proxy settings. |
-| [**markdown-badges**](https://github.com/antoinekh/markdown-badges) | Python-Markdown extension rendering inline `!name` badges. A catalogue of priority, status and branding badges ships built in; add your own, restyle any of them, and choose your own task-list shorthand. Works in Zensical / MkDocs / plain Markdown, no external CSS. |
-| [**dockerfiles**](https://github.com/antoinekh/dockerfiles) | Collection of Dockerfiles for my tooling. |
 
 ---
 
 ### 🤝 Contributions
 
-- **[containerlab](https://github.com/srl-labs/containerlab)** - container-based networking labs
-- **[GoBGP](https://github.com/osrg/gobgp)** - BGP implementation in Go
-- **[NetBox](https://github.com/netbox-community/netbox)** - network source of truth
-- **[bgp-routing-security-monitor (RAVEN)](https://github.com/antoinekh/bgp-routing-security-monitor)** - BMP + RPKI ROV + ASPA path validation in a single binary
+- **NetBox ecosystem** - contributions to [NetBox](https://github.com/netbox-community/netbox) core and plugins: [netbox-contract](https://github.com/mlebreuil/netbox-contract), [netbox-more-metrics](https://github.com/TheDJVG/netbox-more-metrics), [netbox-interface-synchronization](https://github.com/NetTech2001/netbox-interface-synchronization)
+- **[Containerlab](https://github.com/srl-labs/containerlab)** - container-based network labs: contributions to several core features and documentation
+- **Open-source routing** - [GoBGP](https://github.com/osrg/gobgp) · [RAVEN (Nokia)](https://github.com/nokia-steward/bgp-routing-security-monitor) · [FRR](https://github.com/FRRouting/frr): BMP, BGP, IS-IS, bug fixes, and more
 
 ---
 
